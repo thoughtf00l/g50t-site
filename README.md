@@ -1,6 +1,6 @@
 # G50T — corporate site
 
-One-page static site for G50T LLC (https://t50g.com). Plain `index.html` + `styles.css` + `main.js`, no build step, no dependencies. The only external resource is Google Fonts.
+One-page static site for G50T LLC (https://g50t.com). Plain `index.html` + `styles.css` + `main.js`, no build step, no dependencies. The only external resource is Google Fonts.
 
 ## Run locally
 
@@ -51,4 +51,4 @@ Any static host works — upload the repository root as is.
 - **Cloudflare Pages / Netlify**: connect the repo, no build command, output directory `/`.
 - **GitHub Pages**: publish from the `main` branch, root folder.
 
-Point `t50g.com` at the host and keep `robots.txt` / `sitemap.xml` at the root.
+Point `g50t.com` at the host and keep `robots.txt` / `sitemap.xml` at the root.

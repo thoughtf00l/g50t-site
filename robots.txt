@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://t50g.com/sitemap.xml
+Sitemap: https://g50t.com/sitemap.xml
